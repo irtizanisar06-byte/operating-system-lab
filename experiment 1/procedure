@@ -1,1 +1,11 @@
-procedure
+Download VirtualBox from its official website. 
+Run the installer and follow the setup wizard. 
+Click install and complete the installation. 
+Download the Ubuntu ISO file. 
+Open VirtualBox and click New. 
+Create a VM, name it, and select ISO file. 
+Allocate RAM, CPU, and storage. 
+Start the virtual machine and select install. 
+Follow the on-screen installation. 
+Create a user name and password. 
+Complete the installation and restart the virtual machine.
